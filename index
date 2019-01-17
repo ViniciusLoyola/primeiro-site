@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Primeira página.</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+  <div>
+    <h1>E agora?<h1>
+      <br />
+      <nav id="nave">
+        <background src="C:\Users\Vinicius\Desktop\projetos ti\17021947_1385570541529363_2551866285072303300_n.jpg" />
+        <h2>
+          <ul>
+            <li><a href="#aline">Aline</a>
+            </li>
+            <li><a href="#benjamin">Benjamin</a>
+            </li>
+            <li><a href="#esmeralda">Esmeralda</a>
+            </li>
+          </ul>
+        </h2>
+      </nav>
+  </div>
+<br />
+
+
+
+
+  <div id="aline" class="content">
+    <h3>Gatona</h3>
+    <p>
+      Minha gata que eu amo! Companheira de conhecer alas infantis de hospitais.
+    </p>
+      <img src="D:\back up\fotos\fotos cel\20170308_074953.jpg" class="gatona">
+  </div>
+
+  <div id="benjamin" background-color="orange" !important>
+    <h3>Benjamin</h3>
+    <p>
+      Famoso bebezão da casa!!! Quase 9 meses com muita bochecha para mostrar!
+    </p>
+    <video src="C:\Users\Vinicius\Downloads\WhatsApp Video 2019-01-05.mp4" hwight="250px width="300px controls class="benjamin-video">
+    </video>
+  </div>
+
+  <div id="esmeralda" background-color="pink" !important>
+    <p>
+      Menininha bailarina que gosta de ficar rodando!!
+    </p>
+    <h3>Esmeralda</h3>
+    <img src="C:\Users\Vinicius\Downloads\WhatsApp Image 2018-12-29.jpeg" class="esmeralda_foto">
+  </div>
+
+</body>
+</html>
