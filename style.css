@@ -1,0 +1,158 @@
+body {
+  background: azure
+}
+
+h1 {
+  text-align: center;
+  font-style: oblique;
+  font-family: cursive;
+  color: red;
+  content: close-quote;
+}
+
+h2 {
+  color: blue;
+  text-align: left;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 25px;
+  position: relative;
+  margin-left: 0px;
+  margin-top: 20px;
+  height: 110px;
+  width: 100px;
+}
+
+h3{
+  color: red;
+  align-items: center;
+  font-size: 40px;
+  position: relative;
+  }
+
+#nave {
+  background-color: InfoBackground;
+  height: 150px;
+  width: 1050px;
+  border-radius: 15px;
+  color: blue;
+  padding: 1px;
+  border: 1px;
+  margin: 0px;
+}
+
+#aline h3 {
+  bottom: 80px;
+}
+
+.aline {
+  align-items: center;
+  position: static;
+  bottom: 200px;
+  }
+
+  #aline h3 {
+    text-align: center;
+  }
+
+.gatona {
+  margin-left: 200px;
+  height: 550px;
+  width: 800px;
+  opacity: 0.9;
+  top: 40px;
+  position: relative;
+  cursor: pointer;
+  transform: rotate(-90deg)
+}
+
+#benjamin {
+  text-transform: full-width;;
+  background-color: #ff9800 !important;
+  width: 900px;
+  border-radius: 20px;
+  border-color: blue;
+  border-width: 3px;
+  height: 600px;
+  margin-left: 50px;
+  cursor: pointer;
+  top: 250px;
+  position: relative;
+}
+
+#benjamin p {
+  text-align: left;
+  top: 100px;
+  width: 600px;
+  margin: 0px;
+}
+#benjamin h3 {
+  top: 40px;
+  margin-left: 300px;
+  text-align: center;
+  position: relative;
+}
+
+.benjamin-video {
+  background-color: #ffc107 !important;
+  border-radius: 20px;
+  border-color: blue;
+  border-width: 3px;
+  height: 400px;
+  margin-left: 550px;
+  cursor: pointer;
+  top: 20px;
+  position: relative;
+  align-items: center;
+}
+
+#esmeralda {
+  background-color: pink !important;
+  top: 300px;
+  border-radius: 20px;
+  position: relative;
+  width: 1000px;
+  height: 700px;
+}
+
+.esmeralda_foto {
+  margin-left: 180px;
+  height: 500px;
+  animation: roll 3s infinite;
+  transform: rotate(360deg);
+  cursor:  grab;;
+  display: inline-block;
+  bottom: 200px;
+  position: relative;
+}
+
+#esmeralda p {
+  top: 150px;
+  margin-left: 700px;
+  height: 200px;
+  width: 200px;
+}
+
+#esmeralda h3 {
+  bottom: 200px;
+  text-align: center;
+}
+
+@keyframes roll {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+p {
+  margin-left: 300px;
+  width: 700px;
+  font-family: Georgia;
+  font-size: 20px;
+  font-weight: 800;
+  position:relative;
+  bottom: 80px
+}
